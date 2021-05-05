@@ -22,12 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="466e5a46-56b3-451b-a683-42aa595a9433" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="466e5a46-56b3-451b-a683-42aa595a9433" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +121,7 @@
       <workItem from="1620229003676" duration="2663000" />
       <workItem from="1620234543789" duration="812000" />
       <workItem from="1620236860058" duration="622000" />
-      <workItem from="1620237501961" duration="1851000" />
+      <workItem from="1620237501961" duration="2165000" />
     </task>
     <task id="LOCAL-00001" summary="feat(inicializando proyecto con maven)">
       <created>1620063976347</created>
@@ -135,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620063976347</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="añadiendo readme, gitignore y diagrama uml">
+      <created>1620239672546</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620239672546</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +157,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat(inicializando proyecto con maven)" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(inicializando proyecto con maven)" />
+    <MESSAGE value="añadiendo readme, gitignore y diagrama uml" />
+    <option name="LAST_COMMIT_MESSAGE" value="añadiendo readme, gitignore y diagrama uml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2685" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1620151851983">
