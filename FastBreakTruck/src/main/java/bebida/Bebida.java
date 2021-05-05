@@ -2,7 +2,7 @@ package bebida;
 
 import envase.Packing;
 import envase.Tubo;
-import ping.pong.Item;
+import behaviour.Item;
 
 public abstract class Bebida implements Item {
 

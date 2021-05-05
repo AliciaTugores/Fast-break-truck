@@ -1,4 +1,4 @@
-package ping.pong;
+package behaviour;
 
 import bebida.FleebJuice;
 import bebida.TurbulentJuice;

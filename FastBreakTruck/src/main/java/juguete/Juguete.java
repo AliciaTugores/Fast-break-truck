@@ -2,7 +2,7 @@ package juguete;
 
 import envase.Caja;
 import envase.Packing;
-import ping.pong.Item;
+import behaviour.Item;
 
 public abstract class Juguete implements Item {
 

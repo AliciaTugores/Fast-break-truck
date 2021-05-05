@@ -1,4 +1,4 @@
-package ping.pong;
+package behaviour;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,26 +6,27 @@ import java.util.List;
 public class Desayuno {
 
     private Float total;
-    private List<Item> items = new ArrayList<Item>();
+    private List<behaviour.Item> items = new ArrayList<behaviour.Item>();
 
     public Desayuno(){}
 
-    public List<Item> getItems(){
+    public List<behaviour.Item> getItems(){
         return this.items;
     }
 
-    public void addItem(Item item){
+    public void addItem(behaviour.Item item){
         getItems().add(item);
     }
 
     public void mostrarItems(){
-        for (Item item : getItems()) {
+        for (behaviour.Item item : getItems()) {
             System.out.print(item);
         }
     }
 
     public Float getCoste(){
-        for (Item item:getItems()) {
+        Float total = 0f;
+        for (behaviour.Item item:getItems()) {
             total += item.pvp();
         }
         return this.total;

@@ -2,7 +2,7 @@ package comida;
 
 import envase.Caja;
 import envase.Packing;
-import ping.pong.Item;
+import behaviour.Item;
 
 public abstract class Cereales implements Item {
 
